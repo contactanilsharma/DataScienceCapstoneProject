@@ -1,0 +1,12 @@
+name: WordPredictor
+title: WordPredictor
+username:
+account: anilksharma
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3620740
+bundleId: 4209797
+url: https://anilksharma.shinyapps.io/WordPredictor/
+when: 1613043131.59644
+asMultiple: FALSE
+asStatic: FALSE
